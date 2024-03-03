@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm alan</h1>
 <h3 align="center">A passionate backend developer from Somalia</h3>
 
-<p align="left"> [![](https://visitcount.itsvg.in/api?id=alanicja&icon=9&color=0)](https://visitcount.itsvg.in) </p>
+[![](https://visitcount.itsvg.in/api?id=alanicja&icon=9&color=0)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
 🔭 I’m currently working on bonsko.xyz<br>📫 How to reach me alanicja@bonsko.xyz
