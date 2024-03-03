@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm alan</h1>
 <h3 align="center">A passionate backend developer from Somalia</h3>
 
-[![](https://visitcount.itsvg.in/api?id=alanicja&icon=9&color=0)](https://visitcount.itsvg.in)<br/>
+[![](https://visitcount.itsvg.in/api?id=alanicja&icon=9&color=0)]<br/>
 
 # 💫 About Me:
 🔭 I’m currently working on bonsko.xyz<br>📫 How to reach me alanicja@bonsko.xyz
@@ -18,6 +18,5 @@
 ![](https://github-profile-trophy.vercel.app/?username=alanicja&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=alanicja&icon=9&color=0)](https://visitcount.itsvg.in)
 
 
