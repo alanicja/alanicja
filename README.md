@@ -4,7 +4,7 @@
 <p align="left"> </p>
 ## k
 ---
-[![](https://visitcount.itsvg.in/api?id=alanicja&icon=9&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=alanicja&icon=9&color=0)](https://visitcount.itsvg.in)<br/>
 
 # 💫 About Me:
 🔭 I’m currently working on bonsko.xyz<br>📫 How to reach me alanicja@bonsko.xyz
